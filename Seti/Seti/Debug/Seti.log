@@ -1,0 +1,23 @@
+﻿Сборка начата 10.12.2016 12:05:45.
+     1>Проект "C:\Users\Никита\Documents\Visual Studio 2015\Projects\Seti\Seti\Seti.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Seti.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\Seti.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt Seti.cpp
+         Seti.cpp
+     1>c:\users\никита\documents\visual studio 2015\projects\seti\seti\seti.cpp(5): warning C4603: _WINSOCK_DEPRECATED_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+         c:\users\никита\documents\visual studio 2015\projects\seti\seti\seti.cpp(5): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+         c:\users\никита\documents\visual studio 2015\projects\seti\seti\seti.cpp(7): note: использование предварительно скомпилированного заголовка
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\Seti\Debug\Seti.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\Seti\Debug\Seti.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Никита\Documents\Visual Studio 2015\Projects\Seti\Debug\Seti.lib" /MACHINE:X86 Debug\Seti.obj
+         Debug\stdafx.obj
+         Seti.vcxproj -> C:\Users\Никита\Documents\Visual Studio 2015\Projects\Seti\Debug\Seti.exe
+       FinalizeBuildStatus:
+         Файл "Debug\Seti.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Seti.tlog\Seti.lastbuildstate".
+     1>Сборка проекта "C:\Users\Никита\Documents\Visual Studio 2015\Projects\Seti\Seti\Seti.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:04.50
